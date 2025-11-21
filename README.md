@@ -15,4 +15,5 @@ Uma aplicação web que utiliza lógica de Engenharia de Prompt (simulada neste 
 
 ## Como rodar
 pip install -r requirements.txt
+
 streamlit run app.py
